@@ -18,11 +18,29 @@
 ### ICO
 ICO 相对与 IPO。用虚拟币来做众酬，用有这个币相当与拥有这个项目的股票。一般不太靠谱。
 
+### 区块链浏览器
+
+### 常见币
+* BTC
+* ETH-以太坊
+* XRP-瑞波币
+* XLM-恒星币。 Fork 的瑞波币。
+* USDT-泰达币。 与 美元的价格锚定。
+* BitShares-比特股。
+* 内容生态系统
+  * Steemit
+  * [Forntain](https://fountainhub.com/) 简书用的。
+
+### 大神
+* BM 创建了BitShares（比特股）、Steemit以及EOS。
+
 ## 工具
 * 以太坊
   * [Truffle框架](http://truffle.tryblockchain.org/) Truffle是针对基于以太坊的Solidity语言的一套开发框架。本身基于Javascript。
 
-## 资源
+## 资源&网站
+* [非小号](https://www.feixiaohao.com/) 常见币的行情。最专业的数字货币行业大数据平台之一。
+* [区块链导航](https://www.feixiaohao.com/daohanglist/)
 * [从DevCon3大会看以太坊生态现状和发展未来](https://mp.weixin.qq.com/s/5xPkxICTZ5rp9_lf02KoUQ)
 
 
