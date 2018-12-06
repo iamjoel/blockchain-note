@@ -20,6 +20,8 @@ ICO 相对与 IPO。用虚拟币来做众酬，用有这个币相当与拥有这
 
 ### 区块链浏览器
 
+### 超级节点
+
 ### 常见币
 * BTC
 * ETH-以太坊
@@ -37,6 +39,9 @@ ICO 相对与 IPO。用虚拟币来做众酬，用有这个币相当与拥有这
 ## 工具
 * 以太坊
   * [Truffle框架](http://truffle.tryblockchain.org/) Truffle是针对基于以太坊的Solidity语言的一套开发框架。本身基于Javascript。
+* [stellar](https://www.stellar.org/) 恒星链。
+* [nebulas](https://nebulas.io/cn/index.html) 星云链。
+* [FIBOS](https://dev.fo/) 响马搞的。一个创造和发展区块链应用生态的平台，让您轻松创建属于自己的价值网络，帮助开发者和创业者一步进入区块链世界。
 
 ## 资源&网站
 * [非小号](https://www.feixiaohao.com/) 常见币的行情。最专业的数字货币行业大数据平台之一。
